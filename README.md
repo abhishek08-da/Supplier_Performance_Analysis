@@ -31,6 +31,7 @@ Ending Inventory – ending inventory levels
 -------------------------------------------------------------------------------------------------
 
 🛠 Tools & Technologies
+
 SQL (PostgreSQL) – data querying and aggregation
 Python (Pandas, Matplotlib, Seaborn) – data analysis and visualization
 Power BI – interactive dashboard creation
