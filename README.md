@@ -1,4 +1,4 @@
-📊 Supplier Performance Analysis
+## 📊 Supplier Performance Analysis
 📌 Project Overview
 
 This project analyzes supplier performance using sales, purchase, and inventory data. The goal is to evaluate vendor profitability, identify slow-moving products, and understand how purchasing decisions impact business performance.
