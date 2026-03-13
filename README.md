@@ -78,19 +78,14 @@ The following KPIs were calculated to evaluate vendor and product performance:
 ```text 
 Supplier_Performance_Analytics
 │
-├── SQL
-│   └── queries.sql
-│
-├── Python
-│   └── analysis.ipynb
-│
-├── Dashboard
-│   └── powerbi_dashboard.pbix
-│
-├── Dataset
-│   └── csv files
-│
-└── README.md
+├── scripts
+│   └── sql quries
+│   └── python file
+|
+├── README.md
+│   
+└── Dashboard
+    └── powerbi_dashboard.pbix 
 ```
 
 ------------------------------------------------------------------------------------------------
