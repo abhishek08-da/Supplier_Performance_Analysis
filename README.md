@@ -6,7 +6,7 @@ The analysis combines SQL, Python, and Power BI to transform raw data into meani
 
 -------------------------------------------------------------------------------------------------
 
-🎯 Business Problem
+## 🎯 Business Problem
 
 In a retail distribution business, companies purchase products from multiple vendors and sell them to customers. However, it is often difficult to determine:
 1. Which vendors are generating the most profit
@@ -17,7 +17,7 @@ This project aims to analyze supplier and product performance to support better 
 
 -------------------------------------------------------------------------------------------------
 
-📂 Dataset
+## 📂 Dataset
 The dataset contains information about sales transactions, vendor purchases, invoices, and inventory.
 
 Main tables used in the analysis:
@@ -30,7 +30,7 @@ Main tables used in the analysis:
 
 -------------------------------------------------------------------------------------------------
 
-🛠 Tools & Technologies
+## 🛠 Tools & Technologies
 
 - SQL (PostgreSQL) – data querying and aggregation
 - Python (Pandas, Matplotlib, Seaborn) – data analysis and visualization
@@ -39,7 +39,7 @@ Main tables used in the analysis:
 
 -------------------------------------------------------------------------------------------------
 
-🔄 Project Workflow
+## 🔄 Project Workflow
 1. Data loading and preprocessing
 2. Exploratory Data Analysis (EDA)
 3. SQL data modeling and summary views
@@ -50,7 +50,7 @@ Main tables used in the analysis:
 
 -------------------------------------------------------------------------------------------------
 
-📈 Key Metrics Used
+## 📈 Key Metrics Used
 The following KPIs were calculated to evaluate vendor and product performance:
 - Gross Profit
 - Profit Margin
@@ -60,7 +60,7 @@ The following KPIs were calculated to evaluate vendor and product performance:
 
 -------------------------------------------------------------------------------------------------
 
-🔍 Key Insights
+## 🔍 Key Insights
 1. Some vendors had significantly higher unsold inventory, indicating excess purchasing or low demand.
 2. Certain products had high profit margins but low sales volume, suggesting potential pricing or marketing opportunities.
 3. Bulk purchasing sometimes reduced unit cost but also increased the risk of overstocking.
@@ -68,13 +68,13 @@ The following KPIs were calculated to evaluate vendor and product performance:
 
 -------------------------------------------------------------------------------------------------
 
-📊 Dashboard
+## 📊 Dashboard
 
 ![image alt](https://github.com/abhishek08-da/Supplier_Performance_Analysis/blob/46c8ff9e95dac16472d48071a8dc445932291f84/Suppliers%20Performance%20Dashboard%20image.png)
 
 -------------------------------------------------------------------------------------------------
 
-📂 Repository Structure
+## 📂 Repository Structure
 ```text 
 Supplier_Performance_Analytics
 │
@@ -95,7 +95,7 @@ Supplier_Performance_Analytics
 
 ------------------------------------------------------------------------------------------------
 
-💡 Final Recommendations
+## 💡 Final Recommendations
 1. Adjust pricing strategies for high-margin but low-selling products.
 2. Optimize purchase quantities to reduce excess inventory.
 3. Monitor vendor performance regularly using key profitability metrics.
@@ -104,12 +104,12 @@ Supplier_Performance_Analytics
 
 -------------------------------------------------------------------------------------------------
 
-⭐ Outcome
+## ⭐ Outcome
 This project demonstrates how data analysis can help businesses optimize supplier relationships, improve inventory management, and increase profitability.
 
 -------------------------------------------------------------------------------------------------
 
-📎 Author
+## 📎 Author
 
 Abhishek Sharma
 Data Analytics Project
