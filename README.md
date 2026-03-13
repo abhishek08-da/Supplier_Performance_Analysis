@@ -4,6 +4,7 @@
 This project analyzes supplier performance using sales, purchase, and inventory data. The goal is to evaluate vendor profitability, identify slow-moving products, and understand how purchasing decisions impact business performance.
 The analysis combines SQL, Python, and Power BI to transform raw data into meaningful business insights and visual dashboards.
 
+-------------------------------------------------------------------------------------------------
 
 🎯 Business Problem
 
