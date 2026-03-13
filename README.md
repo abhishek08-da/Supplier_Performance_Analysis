@@ -70,7 +70,7 @@ The following KPIs were calculated to evaluate vendor and product performance:
 
 📊 Dashboard
 
-
+![image alt](https://github.com/abhishek08-da/Supplier_Performance_Analysis/blob/46c8ff9e95dac16472d48071a8dc445932291f84/Suppliers%20Performance%20Dashboard%20image.png)
 
 -------------------------------------------------------------------------------------------------
 
