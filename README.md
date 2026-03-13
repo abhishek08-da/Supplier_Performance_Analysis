@@ -32,10 +32,10 @@ Ending Inventory – ending inventory levels
 
 🛠 Tools & Technologies
 
-SQL (PostgreSQL) – data querying and aggregation
-Python (Pandas, Matplotlib, Seaborn) – data analysis and visualization
-Power BI – interactive dashboard creation
-Jupyter Notebook – analysis workflow
+- SQL (PostgreSQL) – data querying and aggregation
+- Python (Pandas, Matplotlib, Seaborn) – data analysis and visualization
+- Power BI – interactive dashboard creation
+- Jupyter Notebook – analysis workflow
 
 -------------------------------------------------------------------------------------------------
 
@@ -52,11 +52,11 @@ Jupyter Notebook – analysis workflow
 
 📈 Key Metrics Used
 The following KPIs were calculated to evaluate vendor and product performance:
-Gross Profit
-Profit Margin
-Total Sales Revenue
-Total Purchase Cost
-Unsold Inventory Value
+- Gross Profit
+- Profit Margin
+- Total Sales Revenue
+- Total Purchase Cost
+- Unsold Inventory Value
 
 -------------------------------------------------------------------------------------------------
 
