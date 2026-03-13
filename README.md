@@ -21,12 +21,12 @@ This project aims to analyze supplier and product performance to support better 
 The dataset contains information about sales transactions, vendor purchases, invoices, and inventory.
 
 Main tables used in the analysis:
-Sales – product sales transactions
-Purchases – products purchased from vendors
-Vendor Invoice – vendor billing and freight costs
-Purchase Prices – product pricing information
-Beginning Inventory – starting inventory levels
-Ending Inventory – ending inventory levels
+- Sales – product sales transactions
+- Purchases – products purchased from vendors
+- Vendor Invoice – vendor billing and freight costs
+- Purchase Prices – product pricing information
+- Beginning Inventory – starting inventory levels
+- Ending Inventory – ending inventory levels
 
 -------------------------------------------------------------------------------------------------
 
