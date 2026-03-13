@@ -73,6 +73,27 @@ Unsold Inventory Value
 
 -------------------------------------------------------------------------------------------------
 
+📂 Repository Structure
+```text 
+Supplier_Performance_Analytics
+│
+├── SQL
+│   └── queries.sql
+│
+├── Python
+│   └── analysis.ipynb
+│
+├── Dashboard
+│   └── powerbi_dashboard.pbix
+│
+├── Dataset
+│   └── csv files
+│
+└── README.md
+```
+
+------------------------------------------------------------------------------------------------
+
 💡 Final Recommendations
 1. Adjust pricing strategies for high-margin but low-selling products.
 2. Optimize purchase quantities to reduce excess inventory.
