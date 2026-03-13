@@ -15,6 +15,7 @@ In a retail distribution business, companies purchase products from multiple ven
 4. Where inventory is blocking working capital
 This project aims to analyze supplier and product performance to support better procurement and inventory decisions.
 
+-------------------------------------------------------------------------------------------------
 
 📂 Dataset
 The dataset contains information about sales transactions, vendor purchases, invoices, and inventory.
@@ -27,6 +28,7 @@ Purchase Prices – product pricing information
 Beginning Inventory – starting inventory levels
 Ending Inventory – ending inventory levels
 
+-------------------------------------------------------------------------------------------------
 
 🛠 Tools & Technologies
 SQL (PostgreSQL) – data querying and aggregation
@@ -34,6 +36,7 @@ Python (Pandas, Matplotlib, Seaborn) – data analysis and visualization
 Power BI – interactive dashboard creation
 Jupyter Notebook – analysis workflow
 
+-------------------------------------------------------------------------------------------------
 
 🔄 Project Workflow
 1. Data loading and preprocessing
@@ -44,6 +47,7 @@ Jupyter Notebook – analysis workflow
 6. Dashboard creation in Power BI
 7. Business insights and recommendations
 
+-------------------------------------------------------------------------------------------------
 
 📈 Key Metrics Used
 The following KPIs were calculated to evaluate vendor and product performance:
@@ -53,6 +57,7 @@ Total Sales Revenue
 Total Purchase Cost
 Unsold Inventory Value
 
+-------------------------------------------------------------------------------------------------
 
 🔍 Key Insights
 1. Some vendors had significantly higher unsold inventory, indicating excess purchasing or low demand.
@@ -60,11 +65,13 @@ Unsold Inventory Value
 3. Bulk purchasing sometimes reduced unit cost but also increased the risk of overstocking.
 4. Inventory turnover varied significantly across products and vendors.
 
+-------------------------------------------------------------------------------------------------
 
 📊 Dashboard
 
 
 
+-------------------------------------------------------------------------------------------------
 
 💡 Final Recommendations
 1. Adjust pricing strategies for high-margin but low-selling products.
@@ -73,10 +80,12 @@ Unsold Inventory Value
 4. Improve demand forecasting to prevent overstocking.
 5. Use data-driven insights to support procurement decisions.
 
+-------------------------------------------------------------------------------------------------
 
 ⭐ Outcome
 This project demonstrates how data analysis can help businesses optimize supplier relationships, improve inventory management, and increase profitability.
 
+-------------------------------------------------------------------------------------------------
 
 📎 Author
 
