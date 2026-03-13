@@ -85,7 +85,7 @@ Supplier_Performance_Analytics
 ├── README.md
 │   
 └── Dashboard
-    └── powerbi_dashboard.pbix 
+    └── powerbi_dashboard.png
 ```
 
 ------------------------------------------------------------------------------------------------
