@@ -83,9 +83,10 @@ Supplier_Performance_Analytics
 │   └── python file
 |
 ├── README.md
-│   
-└── Dashboard
-    └── powerbi_dashboard.png
+│
+├── Analysis_report.pdf
+│ 
+└── powerbi_dashboard.png
 ```
 
 ------------------------------------------------------------------------------------------------
